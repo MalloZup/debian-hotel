@@ -2,6 +2,10 @@
 notice about usefull infos i'm interested about debian (why i swtiched to debian testing distro and community)
 
 ### Packaging:
+
+* ubuntu:
+https://wiki.ubuntuusers.de/Grundlagen_der_Paketerstellung/
+
 * use dev-tools
 https://blog.packagecloud.io/eng/2016/12/15/howto-build-debian-package-containing-simple-shell-scripts/
 
